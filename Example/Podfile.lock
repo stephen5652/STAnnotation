@@ -1,0 +1,16 @@
+PODS:
+  - STAnnotation (0.0.1)
+
+DEPENDENCIES:
+  - STAnnotation (from `../../STAnnotation`)
+
+EXTERNAL SOURCES:
+  STAnnotation:
+    :path: "../../STAnnotation"
+
+SPEC CHECKSUMS:
+  STAnnotation: 0285efd83c0318e3c321329f8f6fdcd5350c9c07
+
+PODFILE CHECKSUM: 7b1103c4258f77185f674b514d1fc905aead27de
+
+COCOAPODS: 1.14.3
